@@ -44,9 +44,6 @@ The Operations Department wishes to have a real-time data analysis solution that
   <a href = "mailto:thiago.ferreirawd@gmail.com">
       <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
   </a>  
-  <a href = "https://www.facebook.com/thiago.ferreira.50746">
-    <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
-  </a> 
   <a href = "https://github.com/ThiagoFerreiraWD">
     <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </a>     
