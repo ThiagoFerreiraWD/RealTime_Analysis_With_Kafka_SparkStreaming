@@ -6,6 +6,8 @@ The idea is to perform a real-time analysis of these logs (which are generated i
 
 The Operations Department wishes to have a real-time data analysis solution that calculates the average temperature of each equipment from the data emitted by IoT sensors. Once these devices are identified, we must notify the responsible department via email so that the necessary actions can be taken.
 
+*Note: Project developed and improved based on the Big Data Real Time & Analytics course from Data Science Academy.*
+
 # <p align=center>Data Pipeline Architecture</p>
 <p align="center">
   <img src="https://github.com/ThiagoFerreiraWD/RealTime_Analysis_With_Kafka_SparkStreaming/blob/main/architecture.jpg?raw=true">
